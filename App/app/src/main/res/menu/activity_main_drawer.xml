@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bd"
+
+            android:title="Bangladesh" />
+        <item
+            android:id="@+id/in"
+
+            android:title="International"/>
+        <item
+            android:id="@+id/sporst"
+
+            android:title="Sports" />
+        <item
+            android:id="@+id/economy"
+
+            android:title="Economy" />
+    </group>
+
+
+
+</menu>
